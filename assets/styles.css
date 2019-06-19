@@ -1,0 +1,20 @@
+// Utility classes
+.bordered {
+  border: 1px solid #333;
+}
+
+a.skip:active,  a.skip:focus {
+  left: -8.5em;
+  border: 3px #3399cc solid;
+  background-color: #fff;
+}
+
+.header {
+  background: #999;
+  color: #fff;
+}
+
+footer {
+  background: #036;
+  color: #fff;
+}
